@@ -30,3 +30,6 @@ tools/me3/data/
 build/emevd/
 tools/uxm/
 tools/yabber/
+
+# local inspection run dumps
+inspector-*.json
