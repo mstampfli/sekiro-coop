@@ -105,7 +105,7 @@ For EMEVD patching (`common.emevd` two-player promotion and custom events), deco
 ## Repository layout
 
 ```
-sesc/
+sekiro-coop/
 ├── crates/
 │   ├── sekiro-sdk-sys/        # AOBs, offsets, memory, natives, live ChrIns I/O, CE-table XML
 │   ├── sekiro-sdk-core/       # Typed entities, enums, catalogs, MinHook shim
